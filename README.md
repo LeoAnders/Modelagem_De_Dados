@@ -1,19 +1,18 @@
 <div align = "center"> <h1>Modelagem De Dados</h1></div>
 
-### O que é ?
-É uma técnica usada para a especificação das regras de negócios e as estruturas de dados
-de um banco de dados. Ela faz parte do ciclo de desenvolvimento de um sistema de informação 
-e é de vital importância para o bom resultado do projeto.
+### Introdução
+Este é um repositório dedicado aos meus estudos sobre modelagem de dados. Aqui, irei documentar os conceitos, técnicas e ferramentas que estou aprendendo, bem como compartilhar alguns exemplos e projetos que desenvolvi.
 
 ---
 
+### Sobre a Modelagem de Dados
+A modelagem de dados é uma técnica fundamental para o desenvolvimento de sistemas e aplicações que lidam com informações. Ela envolve a criação de representações abstratas e estruturadas dos dados que serão armazenados e manipulados pelo sistema, permitindo a descrição de entidades, atributos, relacionamentos e restrições.
 
-### Ferramentas
+---
 
-<div display="flex">
+### Objetivos
+O objetivo deste repositório é documentar o meu processo de aprendizado em modelagem de dados, bem como compartilhar algumas das minhas experiências e projetos. Alguns dos tópicos que pretendo abordar incluem:
 
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
-
-
-</div>
+- Conceitos básicos de modelagem de dados
+- Modelos de dados (relacional, orientado a objetos, hierárquico, de rede)
+- Ferramentas de modelagem de dados (SQL, SQLITE Architect, Oracle SQL Developer)
